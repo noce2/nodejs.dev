@@ -192,4 +192,6 @@ should be right after baz, before bar
 bar
 ```-->
 
+![Execution order third example](execution-order-third-example.png)
+
 That's a big difference between Promises (and Async/await, which is built on promises) and plain old asynchronous functions through `setTimeout()` or other platform APIs.
